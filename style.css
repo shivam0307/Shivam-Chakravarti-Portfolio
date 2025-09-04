@@ -1560,29 +1560,3 @@ select.form-control {
   }
 }
 
-.about-stats {
-    display: flex;
-    gap: 60px;
-    justify-content: center;
-    margin-top: 32px;
-    font-size: 1.1rem;
-}
-.stat {
-    text-align: center;
-    font-family: 'Montserrat', Arial, sans-serif;
-}
-.highlight-number {
-    color: #2563eb;           /* Blue accent */
-    font-size: 1.4em;
-    font-weight: bold;
-    letter-spacing: 0.5px;
-    margin-right: 6px;
-}
-.highlight-label {
-    color: #444;
-    font-size: 1em;
-    font-weight: 500;
-}
-.stat strong {
-    color: #60a5fa;           /* Lighter blue for + */
-}
